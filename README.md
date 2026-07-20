@@ -1,4 +1,5 @@
-Water Quality Assessment System
+**Water Quality Assessment System**
+
 An intelligent machine learning-powered application designed to assess pond water quality and classify environmental conditions into Safe, Moderate, or Critical. The system helps support effective fish pond monitoring by providing predictive insights and actionable recommendations based on water quality parameters.
 
 📌 Overview
